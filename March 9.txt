@@ -1,0 +1,1 @@
+Today was a work day all day. Derek and I got our project to work right after lunch with a few bugs that we ended up figuring out. Its interesting seeing how two people can see the code differently, and how hard it is to see it the way they do when you already have it envisioned how you think it should be. Tommorrow morning we are going to spend time cleaning up our code.
