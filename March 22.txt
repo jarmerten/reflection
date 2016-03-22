@@ -1,0 +1,1 @@
+Today we worked on our projects and had a short lecture from andrew on 2d arrays and lists. I stubbed out my entire project and talked to mike and made some changes to it then. After the lecture i completly rewrote my 2d list and made the code alot shorter.
