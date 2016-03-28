@@ -1,0 +1,1 @@
+Today we worked on your battleship projects. I tried to clean mine up alot and place everything into smaller functions. I also worked on my variable names because i had an issue with those on my test.
