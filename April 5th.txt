@@ -1,0 +1,1 @@
+Today we worked on performance questions. I did them and got a much better understanding of what i was doing. We then got a lecture on patterns and antipattern. I could use antipatterns more than patterns.

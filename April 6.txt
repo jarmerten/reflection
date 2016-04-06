@@ -1,0 +1,1 @@
+Today i worked on the string structures project. Once i got an understanding of it i got through most of it but got stuck again on the custom linked list. I had difficulty with getting the nodes and things setup. We then got a lecture on Concurrency Concepts. It was interesting but its just something else to add on to the pile of things to try to understand.
