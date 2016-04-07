@@ -1,0 +1,1 @@
+Today I finished up assignment 3 and am glad i did. It was one of the hardest for me because the custom linked list was a weird and hard concept for me to understand. I then spent most of the afternoon cleaning it up. The lecture today helped understand what we learned yesterday about concurrency by showing to us how to actually implement and use it.
