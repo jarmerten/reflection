@@ -1,0 +1,1 @@
+Today I got my database done for my customers and my farmers. It was alot of work because I had no idea how to create anything and have no experience with asp.net at all.
