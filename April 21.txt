@@ -1,0 +1,1 @@
+Today we got a lecture on functional programming. It was interesting but i didnt get the chance to work on it at all because i was working on the sql zoo. Sql zoo is a pain in the butt but its interesting seeing how it works.
