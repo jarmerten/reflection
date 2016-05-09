@@ -1,0 +1,1 @@
+Today I presented what i had and worked on trying to implement ajax into project.

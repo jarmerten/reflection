@@ -1,0 +1,1 @@
+Today we a started building our own website to match a business website. It was awesome jumping back into front end stuff and getting to work with it with templates, and addons like bootstrap. I hope to get further on it tommorrow.
